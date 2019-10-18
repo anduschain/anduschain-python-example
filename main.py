@@ -1,7 +1,3 @@
-# anduschain-python-example
-
-## Usage
-```$xslt
 from web3 import Web3
 from anduschain.middleware import construct_sign_and_send_raw_middleware
 
@@ -44,4 +40,4 @@ try:
     print(Web3.toHex(result))
 except Exception as err:
     print("=====Exception======", str(err))
-```
+
