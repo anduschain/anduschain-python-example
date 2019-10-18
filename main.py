@@ -4,7 +4,7 @@ from anduschain.middleware import construct_sign_and_send_raw_middleware
 """
 1. Make Provider ( rpc, ipc .. )
 """
-my_provider = Web3.HTTPProvider('http://15.164.224.2:8545')
+my_provider = Web3.HTTPProvider('http://RPC-URL:8545')
 w3 = Web3(my_provider)
 
 """
@@ -12,7 +12,7 @@ w3 = Web3(my_provider)
 """
 ADDRESS = '0xfef6f81c2c9e1fa327cad572d352b913bc074a0d'
 KEY_FILE = './tmp/UTC--2019-09-30T08:50:41Z--fef6f81c2c9e1fa327cad572d352b913bc074a0d.json'
-KEY_PASS = '12345'
+KEY_PASS = 'PASSWORD'
 
 sender = Web3.toChecksumAddress(ADDRESS)
 

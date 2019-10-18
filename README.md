@@ -1,5 +1,16 @@
 # anduschain-python-example
 
+## Innstall
+
+```$xslt
+git clone https://github.com/anduschain/anduschain-python-example.git
+```
+python version > 3
+
+````$xslt
+pyton main.py
+````
+
 ## Usage
 ```$xslt
 from web3 import Web3
