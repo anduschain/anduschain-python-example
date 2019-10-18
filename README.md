@@ -1,6 +1,6 @@
 # anduschain-python-example
 
-## Innstall
+## Install
 
 ```$xslt
 git clone https://github.com/anduschain/anduschain-python-example.git
