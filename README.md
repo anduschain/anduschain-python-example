@@ -8,7 +8,7 @@ git clone https://github.com/anduschain/anduschain-python-example.git
 python version > 3
 
 ````$xslt
-pyton main.py
+python main.py
 ````
 
 ## Usage
