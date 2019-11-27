@@ -1,5 +1,10 @@
 # anduschain-python-example
 
+## Requirements
+Installation is required to run andsuschain-java-example.
+
+See anduschain-docker-control(https://github.com/anduschain/anduschain-docker-control)
+
 ## Install
 
 ```$xslt
